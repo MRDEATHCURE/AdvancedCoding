@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Final Codeing Project C#\\TopDownShooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\particles\\particlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\particles\\particlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\particles\\particles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\particles\\particles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\spawners\u0026static\\breakablestatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\spawners\u0026static\\breakablestatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\interfaces\\istatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\interfaces\\istatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\spawners\u0026static\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\spawners\u0026static\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\enemies\\circleenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\enemies\\circleenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\enemies\\baseenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\enemies\\baseenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\interfaces\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\interfaces\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\enums\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\enums\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\enums\\bufftype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\enums\\bufftype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\spawners\u0026static\\staticspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\spawners\u0026static\\staticspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\managers\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\managers\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\managers\\collisionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\managers\\collisionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\enemies\\polygonenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\enemies\\polygonenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\interfaces\\ibreakable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\interfaces\\ibreakable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\interfaces\\ishootable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\interfaces\\ishootable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\managers\\highscoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\managers\\highscoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\managers\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\managers\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|f:\\final codeing project c#\\topdownshooter\\topdownshooter\\enemies\\triangleenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\enemies\\triangleenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Constants.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Constants.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Constants.cs",
+              "RelativeToolTip": "TopDownShooter\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:22:15.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Player.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Player.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Player.cs",
+              "RelativeToolTip": "TopDownShooter\\Player.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAowBUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T16:52:09.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Game1.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Game1.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Game1.cs",
+              "RelativeToolTip": "TopDownShooter\\Game1.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAYwNsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:35:25.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BreakableStatic.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Spawners\u0026Static\\BreakableStatic.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Spawners\u0026Static\\BreakableStatic.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Spawners\u0026Static\\BreakableStatic.cs",
+              "RelativeToolTip": "TopDownShooter\\Spawners\u0026Static\\BreakableStatic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:02:30.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDamageable.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Interfaces\\IDamageable.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Interfaces\\IDamageable.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Interfaces\\IDamageable.cs",
+              "RelativeToolTip": "TopDownShooter\\Interfaces\\IDamageable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:44:49.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStatic.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Interfaces\\IStatic.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Interfaces\\IStatic.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Interfaces\\IStatic.cs",
+              "RelativeToolTip": "TopDownShooter\\Interfaces\\IStatic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T20:33:49.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Managers\\GameManager.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Managers\\GameManager.cs",
+              "RelativeToolTip": "TopDownShooter\\Managers\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:53:54.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParticleSystem.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Particles\\ParticleSystem.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Particles\\ParticleSystem.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Particles\\ParticleSystem.cs",
+              "RelativeToolTip": "TopDownShooter\\Particles\\ParticleSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:24:21.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Particles.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Particles\\Particles.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Particles\\Particles.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Particles\\Particles.cs",
+              "RelativeToolTip": "TopDownShooter\\Particles\\Particles.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCQAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:24:04.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Spawners\u0026Static\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Spawners\u0026Static\\EnemySpawner.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Spawners\u0026Static\\EnemySpawner.cs",
+              "RelativeToolTip": "TopDownShooter\\Spawners\u0026Static\\EnemySpawner.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCcAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:59:11.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Character.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Character.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Character.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Character.cs",
+              "RelativeToolTip": "TopDownShooter\\Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:19:32.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CircleEnemy.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Enemies\\CircleEnemy.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Enemies\\CircleEnemy.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Enemies\\CircleEnemy.cs",
+              "RelativeToolTip": "TopDownShooter\\Enemies\\CircleEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:55:25.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEnemy.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Enemies\\BaseEnemy.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Enemies\\BaseEnemy.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Enemies\\BaseEnemy.cs",
+              "RelativeToolTip": "TopDownShooter\\Enemies\\BaseEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:13:25.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Bullet.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Bullet.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Bullet.cs",
+              "RelativeToolTip": "TopDownShooter\\Bullet.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwD8AAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:51:25.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Program.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Program.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Program.cs",
+              "RelativeToolTip": "TopDownShooter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:35:23.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BuffType.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Enums\\BuffType.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Enums\\BuffType.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Enums\\BuffType.cs",
+              "RelativeToolTip": "TopDownShooter\\Enums\\BuffType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:02:11.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StaticSpawn.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Spawners\u0026Static\\StaticSpawn.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Spawners\u0026Static\\StaticSpawn.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Spawners\u0026Static\\StaticSpawn.cs",
+              "RelativeToolTip": "TopDownShooter\\Spawners\u0026Static\\StaticSpawn.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T20:36:07.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Enums\\GameState.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Enums\\GameState.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Enums\\GameState.cs",
+              "RelativeToolTip": "TopDownShooter\\Enums\\GameState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:54:12.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IShootable.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Interfaces\\IShootable.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Interfaces\\IShootable.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Interfaces\\IShootable.cs",
+              "RelativeToolTip": "TopDownShooter\\Interfaces\\IShootable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:50:55.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Managers\\UIManager.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Managers\\UIManager.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Managers\\UIManager.cs",
+              "RelativeToolTip": "TopDownShooter\\Managers\\UIManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T21:05:12.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBreakable.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Interfaces\\IBreakable.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Interfaces\\IBreakable.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Interfaces\\IBreakable.cs",
+              "RelativeToolTip": "TopDownShooter\\Interfaces\\IBreakable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:04:38.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Managers\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Managers\\ScoreManager.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Managers\\ScoreManager.cs",
+              "RelativeToolTip": "TopDownShooter\\Managers\\ScoreManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:29:57.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Managers\\InputManager.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Managers\\InputManager.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Managers\\InputManager.cs",
+              "RelativeToolTip": "TopDownShooter\\Managers\\InputManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:48:44.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PolygonEnemy.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Enemies\\PolygonEnemy.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Enemies\\PolygonEnemy.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Enemies\\PolygonEnemy.cs",
+              "RelativeToolTip": "TopDownShooter\\Enemies\\PolygonEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:55:31.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HighScoreManager.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Managers\\HighScoreManager.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Managers\\HighScoreManager.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Managers\\HighScoreManager.cs",
+              "RelativeToolTip": "TopDownShooter\\Managers\\HighScoreManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:04:40.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CollisionManager.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Managers\\CollisionManager.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Managers\\CollisionManager.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Managers\\CollisionManager.cs",
+              "RelativeToolTip": "TopDownShooter\\Managers\\CollisionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:57:59.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TriangleEnemy.cs",
+              "DocumentMoniker": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Enemies\\TriangleEnemy.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Enemies\\TriangleEnemy.cs",
+              "ToolTip": "F:\\Final Codeing Project C#\\TopDownShooter\\TopDownShooter\\Enemies\\TriangleEnemy.cs",
+              "RelativeToolTip": "TopDownShooter\\Enemies\\TriangleEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:58:12.877Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

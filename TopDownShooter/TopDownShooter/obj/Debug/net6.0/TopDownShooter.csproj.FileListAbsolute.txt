@@ -1,0 +1,68 @@
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\Content\Background.xnb
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\Content\BreakableStatic.xnb
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\Content\Bullet.xnb
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\Content\EnemyCircle.xnb
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\Content\EnemyPolygon.xnb
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\Content\EnemyTriangle.xnb
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\Content\GameFont.xnb
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\Content\Player.xnb
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\Content\StaticBlock.xnb
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\TopDownShooter.exe
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\TopDownShooter.deps.json
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\TopDownShooter.runtimeconfig.json
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\TopDownShooter.dll
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\TopDownShooter.pdb
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\obj\Debug\net6.0\TopDownShooter.csproj.AssemblyReference.cache
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\obj\Debug\net6.0\TopDownShooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\obj\Debug\net6.0\TopDownShooter.AssemblyInfoInputs.cache
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\obj\Debug\net6.0\TopDownShooter.AssemblyInfo.cs
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\obj\Debug\net6.0\TopDownShooter.csproj.CoreCompileInputs.cache
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\obj\Debug\net6.0\TopDownS.671D3E34.Up2Date
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\obj\Debug\net6.0\TopDownShooter.dll
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\obj\Debug\net6.0\refint\TopDownShooter.dll
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\obj\Debug\net6.0\TopDownShooter.pdb
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\obj\Debug\net6.0\TopDownShooter.genruntimeconfig.cache
+C:\Users\idodr\OneDrive\Desktop\TopDownShooter\TopDownShooter\obj\Debug\net6.0\ref\TopDownShooter.dll
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\Content\Background.xnb
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\Content\BreakableStatic.xnb
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\Content\Bullet.xnb
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\Content\EnemyCircle.xnb
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\Content\EnemyPolygon.xnb
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\Content\EnemyTriangle.xnb
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\Content\GameFont.xnb
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\Content\Player.xnb
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\Content\StaticBlock.xnb
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\TopDownShooter.exe
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\TopDownShooter.deps.json
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\TopDownShooter.runtimeconfig.json
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\TopDownShooter.dll
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\TopDownShooter.pdb
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\MonoGame.Framework.dll
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\obj\Debug\net6.0\TopDownShooter.csproj.AssemblyReference.cache
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\obj\Debug\net6.0\TopDownShooter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\obj\Debug\net6.0\TopDownShooter.AssemblyInfoInputs.cache
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\obj\Debug\net6.0\TopDownShooter.AssemblyInfo.cs
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\obj\Debug\net6.0\TopDownShooter.csproj.CoreCompileInputs.cache
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\obj\Debug\net6.0\TopDownS.671D3E34.Up2Date
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\obj\Debug\net6.0\TopDownShooter.dll
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\obj\Debug\net6.0\refint\TopDownShooter.dll
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\obj\Debug\net6.0\TopDownShooter.pdb
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\obj\Debug\net6.0\TopDownShooter.genruntimeconfig.cache
+F:\Final Codeing Project C#\TopDownShooter\TopDownShooter\obj\Debug\net6.0\ref\TopDownShooter.dll

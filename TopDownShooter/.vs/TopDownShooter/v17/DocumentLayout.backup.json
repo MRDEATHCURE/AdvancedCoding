@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|c:\\users\\ido drutin\\source\\repos\\topdownshooter\\topdownshooter\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|c:\\users\\ido drutin\\source\\repos\\topdownshooter\\topdownshooter\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|c:\\users\\ido drutin\\source\\repos\\topdownshooter\\topdownshooter\\collisionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\collisionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|c:\\users\\ido drutin\\source\\repos\\topdownshooter\\topdownshooter\\baseenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\baseenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|c:\\users\\ido drutin\\source\\repos\\topdownshooter\\topdownshooter\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|c:\\users\\ido drutin\\source\\repos\\topdownshooter\\topdownshooter\\triangleenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\triangleenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|c:\\users\\ido drutin\\source\\repos\\topdownshooter\\topdownshooter\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|c:\\users\\ido drutin\\source\\repos\\topdownshooter\\topdownshooter\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|c:\\users\\ido drutin\\source\\repos\\topdownshooter\\topdownshooter\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|c:\\users\\ido drutin\\source\\repos\\topdownshooter\\topdownshooter\\interfaces\\imoveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\interfaces\\imoveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|c:\\users\\ido drutin\\source\\repos\\topdownshooter\\topdownshooter\\staticspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\staticspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|c:\\users\\ido drutin\\source\\repos\\topdownshooter\\topdownshooter\\interfaces\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\interfaces\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|c:\\users\\ido drutin\\source\\repos\\topdownshooter\\topdownshooter\\interfaces\\ishootable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\interfaces\\ishootable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|c:\\users\\ido drutin\\source\\repos\\topdownshooter\\topdownshooter\\interfaces\\istatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\interfaces\\istatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|c:\\users\\ido drutin\\source\\repos\\topdownshooter\\topdownshooter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844AF89-7014-4A0A-AC00-869F2507DC05}|TopDownShooter\\TopDownShooter.csproj|solutionrelative:topdownshooter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TriangleEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\TriangleEnemy.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\TriangleEnemy.cs",
+              "ToolTip": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\TriangleEnemy.cs",
+              "RelativeToolTip": "TopDownShooter\\TriangleEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T00:33:47.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\BaseEnemy.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\BaseEnemy.cs",
+              "ToolTip": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\BaseEnemy.cs",
+              "RelativeToolTip": "TopDownShooter\\BaseEnemy.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:13:25.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\UIManager.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\UIManager.cs",
+              "ToolTip": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\UIManager.cs",
+              "RelativeToolTip": "TopDownShooter\\UIManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T21:05:12.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StaticSpawn.cs",
+              "DocumentMoniker": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\StaticSpawn.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\StaticSpawn.cs",
+              "ToolTip": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\StaticSpawn.cs",
+              "RelativeToolTip": "TopDownShooter\\StaticSpawn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T20:36:07.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IStatic.cs",
+              "DocumentMoniker": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\Interfaces\\IStatic.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Interfaces\\IStatic.cs",
+              "ToolTip": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\Interfaces\\IStatic.cs",
+              "RelativeToolTip": "TopDownShooter\\Interfaces\\IStatic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T20:33:49.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMoveable.cs",
+              "DocumentMoniker": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\Interfaces\\IMoveable.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Interfaces\\IMoveable.cs",
+              "ToolTip": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\Interfaces\\IMoveable.cs",
+              "RelativeToolTip": "TopDownShooter\\Interfaces\\IMoveable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T20:31:58.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\EnemySpawner.cs",
+              "RelativeToolTip": "TopDownShooter\\EnemySpawner.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:59:11.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollisionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\CollisionManager.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\CollisionManager.cs",
+              "ToolTip": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\CollisionManager.cs",
+              "RelativeToolTip": "TopDownShooter\\CollisionManager.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAMwCgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:57:59.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\Bullet.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Bullet.cs",
+              "ToolTip": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\Bullet.cs",
+              "RelativeToolTip": "TopDownShooter\\Bullet.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAxwDEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:51:25.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IShootable.cs",
+              "DocumentMoniker": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\Interfaces\\IShootable.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Interfaces\\IShootable.cs",
+              "ToolTip": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\Interfaces\\IShootable.cs",
+              "RelativeToolTip": "TopDownShooter\\Interfaces\\IShootable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:50:55.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDamageable.cs",
+              "DocumentMoniker": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\Interfaces\\IDamageable.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Interfaces\\IDamageable.cs",
+              "ToolTip": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\Interfaces\\IDamageable.cs",
+              "RelativeToolTip": "TopDownShooter\\Interfaces\\IDamageable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:44:49.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\Character.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Character.cs",
+              "ToolTip": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\Character.cs",
+              "RelativeToolTip": "TopDownShooter\\Character.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:19:32.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\Game1.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Game1.cs",
+              "ToolTip": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\Game1.cs",
+              "RelativeToolTip": "TopDownShooter\\Game1.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAMwFoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:35:25.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\Player.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Player.cs",
+              "ToolTip": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\Player.cs",
+              "RelativeToolTip": "TopDownShooter\\Player.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T16:52:09.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\Program.cs",
+              "RelativeDocumentMoniker": "TopDownShooter\\Program.cs",
+              "ToolTip": "C:\\Users\\Ido Drutin\\source\\repos\\TopDownShooter\\TopDownShooter\\Program.cs",
+              "RelativeToolTip": "TopDownShooter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:35:23.938Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
